@@ -1,3 +1,0 @@
-feign:
-  client:
-    url: https://dummyjson.com/auth/

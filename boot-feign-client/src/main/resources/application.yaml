@@ -1,5 +1,6 @@
 spring:
   application:
     name: feign-client
-  profiles:
-    active: secure
+feign:
+  client:
+    product-url: https://dummyjson.com/auth/products
